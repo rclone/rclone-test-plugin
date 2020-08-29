@@ -1,8 +1,8 @@
 {
-  "name": "<plugin_name_goes_here>",
-  "author": "<author_name_goes_here>",
+  "name": "rclone-test-plugin",
+  "author": "rclone",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "./",
   "rclone": {
     "handlesType": [],
